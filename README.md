@@ -1,5 +1,10 @@
-# quipucords-design
+# Quipucords Design
 
-- Testing the waters for posting designs to github
+Access design documentation for specific sections by clicking on the links below
 
- - [Login](web-console/workflow/login.md)
+ 1. Common Patterns
+    - Login
+    - [Masthead](http://quipcords.github.io/quipucords-design/quipcords/patterns/masthead)
+ 1. Sources
+ 1. Scans
+ 1. Credentials
